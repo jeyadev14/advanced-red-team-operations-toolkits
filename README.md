@@ -1,4 +1,3 @@
-# advanced-red-team-operations-toolkits
 # Advanced Red Team Operations Toolkit
 
 Welcome to the **Advanced Red Team Operations Toolkit** — a modular framework designed for professional red teamers and cyber security analysts working in multinational corporations (MNCs). This toolkit streamlines your workflow, integrates best-in-class tools, and enables real-time threat intelligence for modern enterprise environments.
